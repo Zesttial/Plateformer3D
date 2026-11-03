@@ -1,8 +1,9 @@
 Plateformer
 Aloïs, Axel, Mehdy
 
-The Nightmarish journey
+Menu principal {Axel}, jump pad {Aloïs}, écran de fin + game over {Axel}, level design {Mehdy}. \[\[Optionels :   vie bonus, menu pause, zone de vitesse {Aloïs}]]
 
-wqsd + espace + clic gauche,
-Menu principal {Axel}, jump pad {Aloïs}, écran de fin + game over {Axel}, level design {Mehdy}. [[Optionel (2 max)  {Aloïs}: chronomètre, menu pause, zone de vitesse]] 
-bugs : aucuns, tous réglés à notre connaissance.
+nom du jeu, touches,
+fonctionnalités faites (obligatoires + bonus),
+bugs connus
+
