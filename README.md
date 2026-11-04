@@ -11,5 +11,5 @@ Menu principal {Axel}, jump pad {Aloïs}, écran de fin + game over {Axel}, leve
 
 
 
-bugs : aucuns, tous réglés à notre connaissance.
+bugs : Coeurs et pièces UI visible dans le main menu.
 
